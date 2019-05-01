@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+.rectangle{
+	width:100%;
+	height:20%;
+	position:absolute;
+	top:0%;
+	left:0%;
+	background-color:#469eff;
+	border: 1px solid #2ECCFA;
+    border-radius: 0px;
+    z-index: -1;
+        
+}
+.ville1{
+	position:absolute;
+	top:30%;
+	left:33%;
+}
+.ville2{
+	position:absolute;
+	top:30%;
+	left:53%;
+}
+.title{
+	text-align:center
+}
+.valider{
+	position:absolute;
+	top:25%;
+	left:50%;
+}
